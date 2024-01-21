@@ -1,2 +1,2 @@
 # Complexity-Explorer-Nonlinear-Dynamics
-Notes for Nonlinear Dynamics: Mathematical and Computational Approaches by Complexity Explorer
+This repository is my note when I take the Nonlinear Dynamics: Mathematical and Computational Approaches course by Liz Bradley in Complexity Explorer.
